@@ -1,3 +1,6 @@
+import pdf from "../assets/pdf/arun_kumar_resume (2).pdf"
+
+
 export const portfolio = {
   name: "Arun Kumar",
   role: "Front-end Developer (React · TypeScript)",
@@ -5,8 +8,8 @@ export const portfolio = {
   email: "ak1577282@gmail.com",
   linkedin: "https://www.linkedin.com/in/arun-kumar-275569241/",
   github: "https://github.com/arunkumar100520",
-  portfolioUrl: "https://arunkumar.dev",
-  resumeUrl: "/Arun_Kumar_Resume.pdf", 
+  portfolioUrl: "https://arunkumar-tau.vercel.app/",
+  resumeUrl: pdf,
 
   hero: {
     headline: "Building responsive, scalable, and user-friendly web interfaces.",
