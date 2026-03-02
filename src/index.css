@@ -1,0 +1,16 @@
+
+@import "tailwindcss";
+/* Professional, non-templated look:
+   - neutral palette
+   - strong type scale
+   - careful spacing
+   - subtle motion
+*/
+html, body { height: 100%; }
+body {
+  @apply bg-[#0b0d12] text-white/90 antialiased;
+  background:
+    radial-gradient(1200px 600px at 15% -10%, rgba(138,180,255,0.22), transparent 55%),
+    radial-gradient(900px 500px at 85% 0%, rgba(157,242,200,0.16), transparent 52%),
+    #0b0d12;
+}
