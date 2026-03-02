@@ -1,4 +1,4 @@
-import pdf from "../assets/pdf/arun_kumar_resume (2).pdf"
+import pdf from "../assets/pdf/arun_kumar_resume (3).pdf"
 
 
 export const portfolio = {
@@ -47,7 +47,7 @@ export const portfolio = {
         "Integrated REST APIs and managed database schemas.",
         "Designed responsive UI for seamless experience across devices."
       ],
-      links: { live: "https://qualtspire.vercel.app/", github: "" },
+      links: { live: "https://qualtspire.vercel.app/", github: "https://github.com/arunkumar100520/bkkk" },
     },
     {
       title: "IPL Buzz Official",
